@@ -1,0 +1,28 @@
+_repo: Les-Colons-du-Rivage-ou-Industrie-et-Probite_64850
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Porchat, J. Jacques (Jean Jacques)
+    aliases:
+    - Porchat, Jacques
+    - Porchat, Jean Jacques
+    - Porchat, J. J. (Jean Jacques)
+    birthdate: 1800
+    deathdate: 1884
+    gutenberg_agent_id: '43269'
+    url: http://www.gutenberg.org/2009/agents/43269
+description: ''
+gutenberg_issued: '2021-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64850'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Les Colons du Rivage
+
+  ou Industrie et Probité'
+url: http://www.gutenberg.org/ebooks/64850
